@@ -3,7 +3,7 @@ const World= Matter.World;
 const Bodies = Matter.Bodies;
 
 var engine, world;
-var box1, pig1;
+var box1, pig1,box2,box3,box4,box5,pig3,log3,log1,log4,log5,bird;
 
 function setup(){
     var canvas = createCanvas(1200,400);
